@@ -1,0 +1,17 @@
+A	B	N	E	K	Z	U	X
+N	V	C	I	P	W	K	L
+C	I	E	Z	T	E	F	R
+B	A	F	I	T	P	T	G
+U	I	T	S	Y	M	L	H
+T	R	A	I	N	J	H	O
+J	B	R	K	E	W	D	S
+A	K	Z	I	Q	P	F	T
+FIT
+
+PET
+
+CAT
+
+GHOST
+
+DOG

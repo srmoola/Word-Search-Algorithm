@@ -1,0 +1,16 @@
+A B N E K Z U X 
+N V C I P W K L 
+C I E Z T E F R 
+B A F I T P T G 
+U I T S Y M L H 
+T R A I N J H O 
+J B R K E W D S 
+A K Z I Q P F T 
+
+
+
+The word FIT was found horizontally in row 3 and columns 2 to 4
+The word PET was found diagonally in column 4 and rows 1 to 3
+The word CAT was found diagonally in column 0 and rows 2 to 4
+The word GHOST was found vertically in column 7 and rows 3 to 7
+The word DOG was not found
